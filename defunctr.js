@@ -1,3 +1,14 @@
+/*!
+ * Defunctr 2.0.0-pre
+ * http://oss.cinecove.com/defunctr
+ *
+ * Copyright 2013 - 2016 Cinecove Digital, LLC and other contributors
+ * Released under the MIT license
+ * https://github.com/cinecove/defunctr/blob/master/LICENSE
+ *
+ * Build Date: 2016-01-12T21:20:09
+ */
+
 window.Defunctr = (function (window, document, undefined) {
     var version = '1.1.0',
     r = {};
