@@ -6,7 +6,7 @@
  * Released under the MIT license
  * https://github.com/cinecove/defunctr/blob/master/LICENSE
  *
- * Build Date: 2016-01-12T21:20:09
+ * Build Date: 2016-01-12T21:26:48
  */
 
 window.Defunctr = (function (window, document, undefined) {
